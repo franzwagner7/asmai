@@ -1,0 +1,4 @@
+Name of the used python env: asmai
+Python Version:
+
+conda install -c conda-forge sentinelhub numpy matplotlib
